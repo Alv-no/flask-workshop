@@ -13,3 +13,25 @@
 ## Diagram of data model
 
 ![diagram](diagram.png)
+
+## Task 1 - Hello world
+Edit `app.py` such that when running command `flask run`, the browser will show "Hello world!".
+
+## Task 2 - Athlete model and endpoint
+* Follow along
+
+## Task 3 - Event model and endpoint
+* Try yourself
+
+## Task 4 - Result model and endpoint
+* Follow along
+
+## Task 5 - Add swagger documentation
+* Follow along
+  
+## Task 6 - Add authentication
+1. API key
+2. OAuth 2.0 JSON Web Token (JWT) with Azure AD
+
+## Task 7 - Do whatever you want
+Do whatever you want
