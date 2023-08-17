@@ -1,3 +1,8 @@
+## Documentation
+[flask](https://flask.palletsprojects.com/en/2.3.x/) </br>
+[flask-smorest](https://flask-smorest.readthedocs.io/en/latest/) </br>
+[flask-sqlalchemy](https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/)
+
 ## How to run API locally with Docker
 1.  `docker build -t IMAGE_NAME .`: Builds Docker image.
 2. 
