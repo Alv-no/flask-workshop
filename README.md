@@ -17,21 +17,19 @@
 ## Task 1 - Hello world
 Edit `app.py` such that when running command `flask run`, the browser will show "Hello world!".
 
-## Task 2 - Athlete model and endpoint
-* Follow along
+## Task 2 - Athlete model and endpoint (follow along)
+* Post, get and delete endpoints
+* Database connection
+* Swagger documentation
 
-## Task 3 - Event model and endpoint
-* Try yourself
+## Task 3 - Event model and endpoint (try yourself)
+* Add post, get and delete endpoints
 
-## Task 4 - Result model and endpoint
-* Follow along
-
-## Task 5 - Add swagger documentation
-* Follow along
+## Task 4 - Result model and endpoint (follow along)
+* Model relationships
   
-## Task 6 - Add authentication
-1. API key
-2. OAuth 2.0 JSON Web Token (JWT) with Azure AD
-
-## Task 7 - Do whatever you want
-Do whatever you want
+## Task 5 - Add authentication
+1. API key (simplest approach)
+2. OAuth2.0 OpenID Connect with Azure AD
+   1. Generate JSON Web Token (JWT) with Postman (authorize using Azure AD application)
+   2. Use token to authenticate
